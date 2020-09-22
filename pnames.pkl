@@ -1,0 +1,742 @@
+(lp0
+S'Azem'
+p1
+aS'Ireton'
+p2
+aS'Caesar'
+p3
+aS'Moses'
+p4
+aS'St. Cyprian'
+p5
+aS'Euripides'
+p6
+aS'Yvon'
+p7
+aS'Samuel Ornik'
+p8
+aS'Duchess of Marlborough'
+p9
+aS'Spinozism'
+p10
+aS'Dom Calmet'
+p11
+aS'Socrates'
+p12
+aS'Jerome Bignon'
+p13
+aS'Hannibal'
+p14
+aS'Joshua'
+p15
+aS'Thomas'
+p16
+aS'Apollo'
+p17
+aS'Cethegus'
+p18
+aS'Noah'
+p19
+aS'Sydenham'
+p20
+aS'Hercules'
+p21
+aS'Chamillart'
+p22
+aS'Duc de Guise'
+p23
+aS'Aga of the Janissaries'
+p24
+aS'Richelieu'
+p25
+aS'Lycophron'
+p26
+aS'Paul Emile'
+p27
+aS'Cambyses'
+p28
+aS'Shakespeare'
+p29
+aS'Gideon'
+p30
+aS'Collins'
+p31
+aS'Bishop of Beauvais'
+p32
+aS'Amnon'
+p33
+aS'Barneveldt'
+p34
+aS'Abbe Charier'
+p35
+aS'Laurette'
+p36
+aS'Abbe Yvon'
+p37
+aS'St. Jerome'
+p38
+aS'Mohammed'
+p39
+aS'David'
+p40
+aS'Clark'
+p41
+aS'Duke of Valentinois'
+p42
+aS'Pierre Cauchon'
+p43
+aS'Queen'
+p44
+aS'Elisabeth'
+p45
+aS'Joab'
+p46
+aS'Balaam'
+p47
+aS'Joan'
+p48
+aS'Logomacos'
+p49
+aS'Harvey'
+p50
+aS'Clarke'
+p51
+aS'Clovis'
+p52
+aS'Isaac'
+p53
+aS'Master Johnson'
+p54
+aS'Juno'
+p55
+aS'Ammonius'
+p56
+aS'Beaupere'
+p57
+aS'Lent'
+p58
+aS'Lebrun'
+p59
+aS'Louis XIII'
+p60
+aS'Manes'
+p61
+aS'Dondindac'
+p62
+aS'Empress of Russia'
+p63
+aS'Jupiter Ammon'
+p64
+aS'Locke'
+p65
+aS'Julian'
+p66
+aS'Chedorlaomer'
+p67
+aS'Duke of Monmouth'
+p68
+aS'Abbe de Pons'
+p69
+aS'Cato'
+p70
+aS'Father Gaubil'
+p71
+aS'Abbe Houtteville'
+p72
+aS'Agricola'
+p73
+aS'Ravaillac'
+p74
+aS'Magog'
+p75
+aS'Holophernes'
+p76
+aS'Bishop of London'
+p77
+aS'Cicero'
+p78
+aS'Voetius'
+p79
+aS'Jaquelot'
+p80
+aS'Grotius'
+p81
+aS'Ceres'
+p82
+aS'Euclid'
+p83
+aS'Bishop Williams'
+p84
+aS'Duc de Beauvilliers'
+p85
+aS'Petronius'
+p86
+aS'Gengis-khan'
+p87
+aS'Chilperic'
+p88
+aS'Fabius Pictor'
+p89
+aS'Cromwell'
+p90
+aS'Circe'
+p91
+aS'Addison'
+p92
+aS'Bambabef'
+p93
+aS'Dagan'
+p94
+aS'Selim'
+p95
+aS'Marcus Brutus'
+p96
+aS'Antoninus'
+p97
+aS'Helen'
+p98
+aS'Achilles'
+p99
+aS'Richeome'
+p100
+aS'Pope Alexander VI'
+p101
+aS'Maximus'
+p102
+aS'Adam'
+p103
+aS'Dr. Brown'
+p104
+aS'Alcibiades'
+p105
+aS'Archangel Raphael'
+p106
+aS'Newton'
+p107
+aS'Duke of Mantua'
+p108
+aS'Hobbes'
+p109
+aS'Henry IV'
+p110
+aS'Tarquin'
+p111
+aS'Joseph'
+p112
+aS'Hippocrates'
+p113
+aS'Scipio'
+p114
+aS'Berriat Saint-Prix'
+p115
+aS'Eusebius'
+p116
+aS'Elizabeth'
+p117
+aS"Duc d'Orleans"
+p118
+aS'Admiral Coligny'
+p119
+aS'Queen Anne'
+p120
+aS'Beuchot'
+p121
+aS'William'
+p122
+aS'Job'
+p123
+aS'Messalina'
+p124
+aS'Arcadius'
+p125
+aS'St. Thomas Aquinas'
+p126
+aS'Voet'
+p127
+aS'Bishop of Rome'
+p128
+aS'Aragon'
+p129
+aS'Aristophanes'
+p130
+aS'Genebrard'
+p131
+aS'Kepler'
+p132
+aS'Heloise'
+p133
+aS'Cudworth'
+p134
+aS'Auriol'
+p135
+aS'Duke of Bedford'
+p136
+aS'Boileau'
+p137
+aS'Pythagoras'
+p138
+aS'Iphigenia'
+p139
+aS'Epiphanius'
+p140
+aS'Fenelon'
+p141
+aS'St. Adhelme'
+p142
+aS'Maupertuis'
+p143
+aS'Ixion'
+p144
+aS'Cataline'
+p145
+aS'Corneille'
+p146
+aS'Ariosto'
+p147
+aS'Amasa'
+p148
+aS'Poussin'
+p149
+aS'Albrecht Durer'
+p150
+aS'Alexander'
+p151
+aS'Oliver'
+p152
+aS'Bolingbroke'
+p153
+aS'Moliere'
+p154
+aS'St. John'
+p155
+aS'King James'
+p156
+aS'St. Leo'
+p157
+aS'St. James'
+p158
+aS'Mazarin'
+p159
+aS'Madame Dacier'
+p160
+aS'Galileo'
+p161
+aS'Kie'
+p162
+aS'Inachus'
+p163
+aS'Cartouche'
+p164
+aS'Ludlow'
+p165
+aS'Leda'
+p166
+aS'Lucretia'
+p167
+aS'Constantine'
+p168
+aS'Abraham'
+p169
+aS'Jacques'
+p170
+aS'Cacodemons'
+p171
+aS'Descartes'
+p172
+aS'Tiberius'
+p173
+aS'Romulus'
+p174
+aS'Lais'
+p175
+aS'Pigalle'
+p176
+aS'Cyrus'
+p177
+aS'Francois'
+p178
+aS'Jean'
+p179
+aS'Absyrthe'
+p180
+aS'Gioconda'
+p181
+aS'Rameses'
+p182
+aS'Paul Jove'
+p183
+aS'Arundel'
+p184
+aS'Jacob'
+p185
+aS'Epicurus'
+p186
+aS'Father Griffet'
+p187
+aS'Homer'
+p188
+aS'Cardinal Azolin'
+p189
+aS'King Auguste'
+p190
+aS'Dryas'
+p191
+aS'Mentzel'
+p192
+aS'Calas'
+p193
+aS'Hesiod'
+p194
+aS'Master Samuel Johnson'
+p195
+aS'St. Bruno'
+p196
+aS'Malebranche'
+p197
+aS'Houttevillus'
+p198
+aS'Arnauld'
+p199
+aS'King Nicomedes'
+p200
+aS'Adimo'
+p201
+aS'Mr. Holwell'
+p202
+aS'Lucifer'
+p203
+aS'Clodius'
+p204
+aS'Boerhaave'
+p205
+aS'Tasso'
+p206
+aS'Isabella'
+p207
+aS'Xerxes'
+p208
+aS'Hecuba'
+p209
+aS'Colonne'
+p210
+aS'Duke of Burgundy'
+p211
+aS'St. Bartholomew'
+p212
+aS'Jason'
+p213
+aS'Demiourgos'
+p214
+aS'Lemoine'
+p215
+aS'Sherlock'
+p216
+aS'Demosthenes'
+p217
+aS'Harlequin'
+p218
+aS'Giovanni Galeas Sforza'
+p219
+aS'Abelard'
+p220
+aS'Voltaire'
+p221
+aS'Osmin'
+p222
+aS'Gassendi'
+p223
+aS'Clodovic'
+p224
+aS'Frida'
+p225
+aS'Alexander the Great'
+p226
+aS'Frederick Henry'
+p227
+aS'Atticus'
+p228
+aS'Lambert'
+p229
+aS'Zarathustra'
+p230
+aS'Egeria'
+p231
+aS'Chevalier Bayard'
+p232
+aS'Simon Barjona'
+p233
+aS'Ovid'
+p234
+aS'Tenedos'
+p235
+aS'Paul Lucas'
+p236
+aS'Lucretius'
+p237
+aS'St. John Chrysostom'
+p238
+aS'Sicily'
+p239
+aS'Catalina'
+p240
+aS'Joly'
+p241
+aS'Charron'
+p242
+aS'Catilina'
+p243
+aS'Cardinal Bembo'
+p244
+aS'Phocas'
+p245
+aS'Arnoult'
+p246
+aS'Esther'
+p247
+aS'Ronsard'
+p248
+aS'Amarilli'
+p249
+aS'Cecrops'
+p250
+aS'Williams'
+p251
+aS'Attila'
+p252
+aS'Antonine'
+p253
+aS'Irminsul'
+p254
+aS'Duke of Lorraine'
+p255
+aS'Countess of Arcira'
+p256
+aS'Raphael'
+p257
+aS'Codrus'
+p258
+aS'Archbishop of Canterbury'
+p259
+aS'Marcus Aurelius'
+p260
+aS'St. Ambrose'
+p261
+aS'Pope John XXII'
+p262
+aS'Octavius'
+p263
+aS'Montaigne'
+p264
+aS'King William'
+p265
+aS'Doctor Balouard'
+p266
+aS'Gaguin'
+p267
+aS'Superbus Fadus'
+p268
+aS'Democritus'
+p269
+aS'Judith'
+p270
+aS'Theodosius'
+p271
+aS'Darius'
+p272
+aS'Father Gauffridi'
+p273
+aS'Numa'
+p274
+aS'Hermes'
+p275
+aS'Donna Olimpia'
+p276
+aS'Montesquieu'
+p277
+aS'James'
+p278
+aS'Camillus'
+p279
+aS'Solomon'
+p280
+aS'Emilia'
+p281
+aS'Tacitus'
+p282
+aS'Pic'
+p283
+aS'Augustus'
+p284
+aS'Aristotle'
+p285
+aS'Arachne'
+p286
+aS'Clement of Alexandria'
+p287
+aS'Emperor Yventi'
+p288
+aS'Leibnitz'
+p289
+aS'Origen'
+p290
+aS'Duc de Beaufort'
+p291
+aS'Rabelais'
+p292
+aS'Archbishop of Paris'
+p293
+aS'Archangel Gabriel'
+p294
+aS'St. Gregory'
+p295
+aS'Alsacian'
+p296
+aS'Rousseau'
+p297
+aS'Amyntas'
+p298
+aS'Epictetus'
+p299
+aS'Jericho'
+p300
+aS'Herodotus'
+p301
+aS'Clitus'
+p302
+aS'Dumoulin'
+p303
+aS'Rol'
+p304
+aS'Exadius'
+p305
+aS'Catherine'
+p306
+aS'Gomer'
+p307
+aS'Bayle'
+p308
+aS'Domitian'
+p309
+aS'Bishop of Gloucester'
+p310
+aS'Confutzee'
+p311
+aS'Ouang'
+p312
+aS'Racine'
+p313
+aS'Villaret'
+p314
+aS'Sixtus'
+p315
+aS'Mahomet'
+p316
+aS'Bacchus'
+p317
+aS'Monseigneur'
+p318
+aS'Cenaeus'
+p319
+aS'Arnobius'
+p320
+aS'Aniximanders'
+p321
+aS'St. Irenaeus'
+p322
+aS'St. Augustine'
+p323
+aS'Agathon'
+p324
+aS'Spinoza'
+p325
+aS'Lauder'
+p326
+aS'Hector'
+p327
+aS'Ferdinand'
+p328
+aS'Fronde'
+p329
+aS'Geneva'
+p330
+aS'Dancourt'
+p331
+aS'Ahriman'
+p332
+aS'Lemures'
+p333
+aS'Adonis'
+p334
+aS'Apelles'
+p335
+aS'Digne'
+p336
+aS'Abbe Pluche'
+p337
+aS'Duc de Richelieu'
+p338
+aS'Archimedes'
+p339
+aS'Perrault'
+p340
+aS'Cluentius'
+p341
+aS'Agamemnon'
+p342
+aS'Torricelli'
+p343
+aS'Bishop of Noyon'
+p344
+aS'Chu '
+p345
+aS'Eve,'
+p346
+aS'Charles I.'
+p347
+aS'Charles II.'
+p348
+aS'Charles V.'
+p349
+aS'Charles VII.'
+p350
+aS'Charles VIII.'
+p351
+aS'Charles IX.'
+p352
+aS'Charles XII.'
+p353
+aS'Amyot'
+p354
+aS'St. Andre'
+p355
+aS'Flora'
+p356
+aS'Fontenelle'
+p357
+aS'Antony'
+p358
+aS'Pierre Aoudri'
+p359
+aS'King Aout'
+p360
+aS'Louis XIV'
+p361
+aS'Louis XII'
+p362
+aS'Aphrodite'
+p363
+aS'Apis'
+p364
+aS'Leo X.'
+p365
+aS'Leontius'
+p366
+aS'Ardassan Ougli'
+p367
+aS'Argonauts'
+p368
+aS'Anitus'
+p369
+aS'Michael Angelo'
+p370
+a.

@@ -1,0 +1,26 @@
+Networks
+Hamad Bin Fahad, Yashaswi Malla, and Sashank Silwal
+
+The Network of Terms in Voltaire's Phylosophical Dictionary
+
+Starting text: "Voltaire_PhilosophicalDictionary.txt"
+Uncleaned text: "Voltaire_PhilosophicalDictionary_Full.txt"
+
+Jupyter Notebook 1
+
+Instructions:
+
+1. Create first list (list of terms): Open "Voltaire_PhilosophicalDictionary.txt" in Sublime and search for "_". Copy the string between _'s and put it quoted in a list called terms. Forget about patterns inside the text! Get only starting patterns which are capitalized:
+
+_XXXXXXXXX_
+
+terms=["ADULTERY", "ADVOCATE", "ANCIENTS AND MODERNS", ]
+
+2. Next create a list of references: The first in each parenthsis in the lis is the referencing term and the second is the referenced term (both need to be included in the list of terms):
+
+references=[
+("LOCAL CRIMES","ADULTERY"),
+("ADULTERY","ADVOCATE"),
+("EZOURVEIDAM","LIBRARY"), 
+
+]
