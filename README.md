@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sashanksilwal/Mapping-the-Networks-of-Voltaire-s-Philosophical-Dictionary/HEAD)
 # Mapping-the-Networks-of-Voltaire-s-Philosophical-Dictionary
 ## Findings
 
